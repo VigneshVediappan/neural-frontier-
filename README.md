@@ -1,5 +1,5 @@
 # NEURAL FRONTIER
-
+![NEURAL FRONTIER Gameplay](screenshot.png)
 A futuristic top-down survival shooter built with Python and Pygame.
 
 ## Features
